@@ -20,7 +20,7 @@ This repository contains various documents and implementations related to comput
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/liyatony/computernetworks.git
+   git clone https://github.com/AbinVarghese1/computernetworks.git
 Navigate to the project directory:
     ```bash
     
